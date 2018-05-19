@@ -1,0 +1,23 @@
+html, body {
+        font-family: "SF Pro Text", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, "Segoe UI", sans-serif;
+        text-align: center;
+}
+a {
+        font-size: 0.9em;
+        text-decoration: none;
+        color: #0088cc;
+}
+a:hover {
+        color: #aa0000;
+}
+div.error-code {
+        padding-top: 10%;
+        font-size: 3em;
+}
+div.message{
+        padding-top: 5%;
+        line-height: 2em;
+}
+div.bottom-white-space {
+        padding-top: 30%;
+}
